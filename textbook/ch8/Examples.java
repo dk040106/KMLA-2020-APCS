@@ -6,7 +6,7 @@ public class Examples {
         FileInput fi = new FileInput("data/imageInput.txt");
         int rows = Integer.parseInt(fi.readToken());
         int cols = Integer.parseInt(fi.readToken());
-        Image image = new Image(_image);
+        Image image = new Image(rows, cols);
         image.display();
 
         int[][] hist = image.eraseBlobWithHistory(6, 1);

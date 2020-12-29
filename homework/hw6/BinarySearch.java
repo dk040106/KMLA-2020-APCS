@@ -1,3 +1,5 @@
+package homework.hw6;
+
 public class BinarySearch {
     public static int count;
 

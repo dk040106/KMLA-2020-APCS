@@ -1,5 +1,3 @@
-package ch3;
-
 public class Student {
     public final static int NUM_TESTS = 3;
     private String name;

@@ -1,5 +1,3 @@
-package ch3;
-
 public class UnderGraduateStudent extends Student {
     public UnderGraduateStudent() {
         super();

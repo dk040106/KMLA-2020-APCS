@@ -1,5 +1,3 @@
-package ch3;
-
 public class GraduateStudent extends Student {
     private int gradID;
 
