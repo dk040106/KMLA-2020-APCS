@@ -1,0 +1,11 @@
+개인별 성적 평균
+Donggu Kim: 80.00점
+Jaehyun Kim: 80.00점
+Jungwoong Kim: 80.00점
+Haneul Yang: 80.00점
+Minsu Kim: 80.00점
+Junhyeong Cho: 80.00점
+Gun Lee: 80.00점
+
+반 평균: 80.00점
+반 표준편차: 0.00점

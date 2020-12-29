@@ -1,0 +1,8 @@
+7
+Donggu Kim M 17 170.0 80 70 90 
+Jaehyun Kim M 17 180.0 80 70 90 
+Jungwoong Kim M 16 170.0 80 70 90 
+Haneul Yang M 17 170.0 80 70 90 
+Minsu Kim M 17 170.0 80 70 90 
+Junhyeong Cho M 17 170.0 80 70 90 
+Gun Lee M 17 170.0 80 70 90 
